@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using DiceRollerMAUI.Application;
+using Microsoft.Extensions.Logging;
 
 namespace DiceRollerMAUI;
 

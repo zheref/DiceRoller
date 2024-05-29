@@ -1,4 +1,4 @@
-﻿namespace DiceRollerMAUI;
+﻿namespace DiceRollerMAUI.Application;
 
 public partial class AppShell : Shell
 {

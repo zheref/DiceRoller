@@ -1,1 +1,0 @@
-/Users/zheref/.dotnet/packs/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64/8.0.5/Sdk/../tools/mono-aot-cross
